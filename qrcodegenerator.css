@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'Orange Kid';
+	src: url(Fonts/orange_kid.otf) format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Orange Kid';
+	box-sizing: border-box;
+}
